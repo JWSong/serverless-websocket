@@ -1,0 +1,6 @@
+.pytest_cache
+__pycahce__
+*.pyc
+.idea
+.serverless
+node_modules
